@@ -29,7 +29,7 @@ if __name__ == '__main__':
 
     n = 1
     while n != 0:
-        print('Ordenar os dados: 1\n')
+        print('Ordenar_os dados: 1\n')
         print('Agrupar os dados: 2\n')
         print('Mostra os dados: 3\n')
         n = int(input('Qual é a opção que pretende: '))
