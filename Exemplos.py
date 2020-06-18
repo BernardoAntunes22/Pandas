@@ -32,6 +32,7 @@ if __name__ == '__main__':
         print('Ordenar_os dados: 1\n')
         print('Agrupar os dados: 2\n')
         print('Mostra os dados: 3\n')
+        print('Terminar: 0\n')
         n = int(input('Qual é a opção que pretende: '))
         if n == 1:
             ordenar()
